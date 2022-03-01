@@ -1,0 +1,10 @@
+2021-12-07T04:42:18 | INFO | mmf.train : Loading datasets
+2021-12-07T04:42:26 | INFO | mmf.train : CUDA Device 0 is: Tesla P100-PCIE-16GB
+2021-12-07T04:42:31 | INFO | mmf.train : Torch version is: 1.5.0
+2021-12-07T04:42:31 | INFO | mmf.train : Loading checkpoint
+2021-12-07T04:42:36 | WARNING | py.warnings : /usr/local/lib/python3.7/dist-packages/mmf/utils/checkpoint.py:225: UserWarning: 'optimizer' key is not present in the checkpoint asked to be loaded. Skipping.
+  "'optimizer' key is not present in the "
+
+2021-12-07T04:42:36 | INFO | mmf.train : Checkpoint loaded
+2021-12-07T04:42:36 | INFO | mmf.train : Starting test inference predictions
+2021-12-07T04:42:36 | INFO | mmf.train : Predicting for hateful_memes
