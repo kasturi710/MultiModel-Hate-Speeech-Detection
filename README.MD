@@ -1,6 +1,6 @@
 # Code for Group 13 Final project "HUMAN"
 
-## Aarushi Gupta, Aman Khullar, Kasturi Gottivedu Shriniwas, Surya Teja Adluri, Vidushi Vashishth
+## Kasturi Gottivedu Shriniwas, Aarushi Gupta, Aman Khullar, Surya Teja Adluri, Vidushi Vashishth
 
 [Data Link](https://drive.google.com/drive/folders/1wVDc_gXxF-NaWqkWfk4Dnt-9bRzLFYCi?usp=sharing)
 
