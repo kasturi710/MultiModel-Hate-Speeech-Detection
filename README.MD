@@ -1,4 +1,4 @@
-# Code for Group 13 Final project "HUMAN"
+# HUMAN: Hate-speech Understanding by Multimodal Attention Network
 
 ## Kasturi Gottivedu Shriniwas, Aarushi Gupta, Aman Khullar, Surya Teja Adluri, Vidushi Vashishth
 
